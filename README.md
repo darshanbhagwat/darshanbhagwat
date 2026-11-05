@@ -27,6 +27,15 @@ Student Performance & Learning Analytics
 - Includes individual predictions, CSV batch predictions, and data visualizations.
 - Currently uses simulated student data.
 
+## 🏆 Certifications
+
+### IBM SkillsBuild – Machine Learning for Data Science Projects
+
+- **Issued by:** IBM SkillsBuild
+- **Supported by:** Anudip Foundation for Social Welfare
+- **Issue date:** October 31, 2026
+- **Credential verification:** [Verify Certificate on Credly](https://www.credly.com/badges/d6530a0b-5e69-4aa8-b661-e26373cb7c95)
+
 ## Currently Learning
 
 - Python Programming
